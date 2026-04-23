@@ -41,17 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* --- Custom Sticky Footer Fix --- */
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-.initial-content {
-  flex: 1 0 auto;
-}
-
-.page__footer {
-  flex-shrink: 0;
-}
