@@ -1,7 +1,7 @@
 ---
 title: "云边融合安全存储架构及技术挑战"
 collection: publications
-category: conferences
+category: journals
 permalink: /publication/SSI-2024-0325
 excerpt: 'cloud-edge integration, data reduction, trusted execution environment, confidential computing, delta synchronization'
 date: 2025-3-04
