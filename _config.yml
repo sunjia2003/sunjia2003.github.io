@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "sunjia.jpg"
   name             : "Jia Sun(孙嘉)"
-  pronouns         : he/him 
-  bio              : "A graduate student of UESTC."
+  pronouns         : # he/him 
+  bio              : "UESTC(电子科技大学)"
   location         : "Chengdu, CN"
-  employer         : "UESTC"
+  employer         : # "UESTC"
   uri              : # URL
   email            : "sunjia2003@foxmail.com" 
 
