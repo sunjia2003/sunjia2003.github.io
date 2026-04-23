@@ -11,7 +11,14 @@ I am a graduate student majoring in Cyber Security at the University of Electron
 
 My research interests include **data deduplication** and **secure storage**. 
 
-[email](sunjia2003@foxmail.com) \| [wechat](../images/wechat.png)
+<a href="javascript:void(0);" 
+   style="cursor: pointer; text-decoration: none; border-bottom: 1px dashed;" 
+   onclick="navigator.clipboard.writeText('sunjia2003@foxmail.com'); var temp = this.innerText; this.innerText = 'Copied! 🎉'; setTimeout(() => { this.innerText = temp; }, 2000);" 
+   title="Click to copy email">
+   sunjia2003@foxmail.com
+</a>
+
+[wechat](../images/wechat.png)
 
 
 
