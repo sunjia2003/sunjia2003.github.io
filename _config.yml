@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "sunjia.jpg"
-  name             : "Jia Sun(孙嘉)"
+  name             : "Jia Sun (孙嘉)"
   pronouns         : # he/him 
-  bio              : "UESTC(电子科技大学)"
+  bio              : "UESTC (电子科技大学)"
   location         : "Chengdu, CN"
   employer         : # "UESTC"
   uri              : # URL
