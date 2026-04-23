@@ -11,8 +11,7 @@ I am a graduate student majoring in Cyber Security at the University of Electron
 
 My research interests include **data deduplication** and **secure storage**. 
 
-email: sunjia2003@foxmail.com
-[wechat]()
+[email](sunjia2003@foxmail.com) | [wechat](wechat.png)
 
 
 
