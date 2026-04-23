@@ -13,9 +13,9 @@ My research interests include **data deduplication** and **secure storage**.
 
 <a href="javascript:void(0);" 
    style="cursor: pointer; text-decoration: none; border-bottom: 1px dashed;" 
-   onclick="navigator.clipboard.writeText('sunjia2003@foxmail.com'); var temp = this.innerText; this.innerText = 'Copied!'; setTimeout(() => { this.innerText = temp; }, 2000);" 
+   onclick="navigator.clipboard.writeText('sunjia2003@foxmail.com'); setTimeout(() => { this.innerText = temp; }, 2000);" 
    title="Click to copy email">
-   sunjia2003@foxmail.com
+   email: sunjia2003@foxmail.com
 </a>
 
 [wechat](../images/wechat.png)
